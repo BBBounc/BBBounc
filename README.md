@@ -3,10 +3,10 @@
 </div>
 <div id="badges" align="center">
   <a href="https://img.shields.io/badge/Classroom?style=for-the-badge&logo=classroom&logoColor=green">
-    <img src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Google%20Classroom&stype=image&lr=213" alt="Classroom Badge"/>
+    <img src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Google%20Classroom&stype=image&lr=213" alt="Classroom"/>
   </a>
   <a href="https://vk.com/dyxnv">
-    <img src="https://img.shields.io/badge/VK?style=for-the-badge&logo=VK&logoColor=blue" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK?style=for-the-badge&logo=VK&logoColor=blue" alt="VK"/>
   </a>
 </div>
 <div id="viewprof" align="center">
