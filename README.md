@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/5aqIIIxoFGVcZGPnYz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://classroom.google.com/u/0/">
-    <img src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Google%20Classroom&stype=image&lr=213" alt="классрум"/>
+  <a href="https://img.shields.io/badge/Classroom?style=for-the-badge&logo=classroom&logoColor=green">
+    <img src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Google%20Classroom&stype=image&lr=213" alt="Classroom Badge"/>
   </a>
-  <a href="https://www.youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://vk.com/dyxnv">
+    <img src="https://img.shields.io/badge/VK?style=for-the-badge&logo=VK&logoColor=blue" alt="VK Badge"/>
   </a>
 </div>
 <div id="viewprof" align="center">
