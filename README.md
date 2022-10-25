@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://classroom.google.com/u/0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="классрум"/>
+    <img src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Google%20Classroom&stype=image&lr=213" alt="классрум"/>
   </a>
   <a href="https://www.youtube.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
