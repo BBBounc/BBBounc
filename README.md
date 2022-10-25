@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/5aqIIIxoFGVcZGPnYz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://classroom.google.com/u/0/c/NDkwMTg2MzEzMzky">
-    <img src="img.shields.io/badge/classroom-green?logo=classroom&amp;logoColor=white&amp;style=for-the-badge" alt="Classroom"/>
+  <a href="https://www.youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube"/>
   </a>
   <a href="https://vk.com/dyxnv">
     <img src="https://img.shields.io/badge/VK-blue?logo=Vkontakte&amp;logoColor=white&amp;style=for-the-badge" alt="VK"/>
