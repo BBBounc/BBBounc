@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/5aqIIIxoFGVcZGPnYz/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https:/https://t.me/gguiury">
+  <a href="/https://t.me/gguiury">
     <img src="https://img.shields.io/badge/Tg-blue?logo=Telegram&amp;logoColor=white&amp;style=for-the-badge" alt="telegram"/>
   </a>
   <a href="https://vk.com/dyxnv">
