@@ -24,12 +24,6 @@
 
 ### :man_technologist: About Me:  я ->  Влад   <img src="https://media.giphy.com/media/v7r8hi2vT45RC/giphy.gif" width="220px"/> я из Русни! 
 
-- :pig2: я пожилой таксист, у меня есть машина, я люблю кататься на машине, и кушать шаурму!!!!!!!1
-
-- :car: моя машина самая быстрая на планете.
-
-- :ninja: также на заднем сиденье я вожу свою свинью пеппу.
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
